@@ -9,4 +9,4 @@ const C04variable = (msj) => {
   )
 }
 
-export default C04variable
+export default C04variable ;

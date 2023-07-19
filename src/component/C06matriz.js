@@ -35,4 +35,4 @@ const C06matriz = () => {
   )
 }
 
-export default C06matriz
+export default C06matriz ;

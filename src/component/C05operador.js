@@ -6,10 +6,10 @@ const C05operador = () => {
   return (
     <Fragment>
         <h1>Operador ternario</h1>
-        {edad >=18? 'Mayor de edad':'Menor de edad'}
+        {edad >= 18? 'Mayor de edad':'Menor de edad'}
       
     </Fragment>
   );
 }
 
-export default C05operador
+export default C05operador ;

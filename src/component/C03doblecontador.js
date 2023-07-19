@@ -19,4 +19,4 @@ const C03doblecontador = () => {
   )
 }
 
-export default C03doblecontador
+export default C03doblecontador ;
